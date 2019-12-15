@@ -3053,20 +3053,14 @@
     "weight": "60.0 kg",
    
     "weaknesses": [
-      "Water",
-      "Electric",
-      "Rock"
-    ]
-  }, {
-    "id": 147,
-    "num": "147",
+    
     "name": "Dratini",
     "img": "http://www.serebii.net/pokemongo/pokemon/147.png",
     "type": [
       "Dragon"
     ],
     "height": "1.80 m",
-    "weight": "3.3 kg",
+    "weight": "3.3 kg"
    
     "multipliers": [
       1.83,
@@ -3101,9 +3095,9 @@
       "Dragon",
       "Fairy"
     ],
-    "prev_evolution": [{
+    "prev_evolution": {
       "num": "147",
-      "name": "Dratini"
+      "name": "Dratini
     }],
     "next_evolution": [{
       "num": "149",
@@ -3135,7 +3129,7 @@
       "name": "Dragonair"
     }]
   }, {
-    "id": 150,
+    "id": 150
     "num": "150",
     "name": "Mewtwo",
     "img": "http://www.serebii.net/pokemongo/pokemon/150.png",
@@ -3155,7 +3149,7 @@
     "num": "151",
     "name": "Mew",
     "img": "http://www.serebii.net/pokemongo/pokemon/151.png",
-    "type": [
+    "type": 
       "Psychic"
     ],
     "height": "0.41 m",
