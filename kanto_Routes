@@ -1,50 +1,95 @@
 {
-  "route_name": [ 
-  "1",
-  "2",
-  "3",
-  "4",
-  "5",
-  "6",
-  "7",
-  "8",
-  "9",
-  "10",
-  "11",
-  "12",
-  "13",
-  "14",
-  "15",
-  "16",
-  "17",
-  "18",
-  "19",
-  "20",
-  "21",
-  "22",
-  "23",
-  "24",
-  "25",
-  "Pallet Town",
-  "Viridian City",
-  "Pewter City",
-  "Cerulean City",
-  "Vermilion City",
-  "Lavender Town",
-  "Celadon City",
-  "Saffron City",
-  "Fuchsia City",
-  "Cinnabar Island",
-  "Viridian Forest",
-  "Diglett's Cave",
-  "Mt. Moon",
-  "Cerulean Cave",
-  "Rock Tunnel",
-  "Power Plant",
-  "Pokemon Tower",
-  "Safari Zone",
-  "Seafoam Islands",
-  "Pokemon Mansion",
-  "Victory Road"
+  "route": [{
+  "name": "1"},
+  {
+  "name":"2"},
+  {
+  "name":"3"},
+  {
+  "name":"4"},
+  {
+  "name":"5"},
+  {
+  "name":"6"},
+  {
+  "name":"7"},
+  {
+  "name":"8"},
+  {
+  "name":"9"},
+  {
+  "name":"10"},
+  {
+  "name":"11"},
+  {
+  "name":"12"},
+  {
+  "name":"13"},
+  {
+  "name":"14"},
+  {
+  "name":"15"},
+  {
+  "name":"16"},
+  {
+  "name":"17"},
+  {
+  "name":"18"},
+  {
+  "name":"19"},
+  {
+  "name":"20"},
+  {
+  "name":"21"},
+  {
+  "name":"22"},
+  {
+  "name":"23"},
+  {
+  "name":"24"},
+  {
+  "name":"25"},
+  {
+  "name":"Pallet Town"},
+  {
+  "name":"Viridian City"},
+  {
+  "name":"Pewter City"},
+  {
+  "name":"Cerulean City"},
+  {
+  "name":"Vermilion City"},
+  {
+  "name":"Lavender Town"},
+  {
+  "name":"Celadon City"},
+  {
+  "name":"Saffron City"},
+  {
+  "name":"Fuchsia City"},
+  {
+  "name":"Cinnabar Island"},
+  {
+  "name":"Viridian Forest"},
+  {
+  "name":"Diglett's Cave"},
+  {
+  "name":"Mt. Moon"},
+  {
+  "name":"Cerulean Cave"},
+  {
+  "name":"Rock Tunnel"},
+  {
+  "name":"Power Plant"},
+  {
+  "name":"Pokemon Tower"},
+  {
+  "name":"Safari Zone"},
+  {
+  "name":"Seafoam Islands"},
+  {
+  "name":"Pokemon Mansion"},
+  {
+  "name":"Victory Road"}
   ]
 }
